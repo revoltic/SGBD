@@ -183,7 +183,7 @@ Insert into MB_ORDONNANCE_DD (numOrd , recommandations , typeO, dateC )
    values (9190014, 'Recommendations sur le chirurgie  imed 1004', 'Chirurgie', To_DATE('2019/9/25','YYYY/MM/DD'));
 Insert into MB_ORDONNANCE_DD (numOrd , recommandations , typeO, dateC ) 
    values (9190015, 'Recommendations sur le chirurgie  imed 1005', 'Chirurgie', To_DATE('2019/8/25','YYYY/MM/DD'));
-
+DSFKLDFGJKLHDSFJKHLFDSGKJLHSFDGKJLH
 
 --Insertion de DATAs dans la table6 SPECIALITE avec la
 Insert into MB_SPECIALITE_DD (code , titre , description) values (0001, 'Psychiatre', 'Traite la maladie mentale');
